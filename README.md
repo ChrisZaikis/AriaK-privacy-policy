@@ -6,12 +6,13 @@ This repository hosts the **Privacy Policy** for the mobile application **AriaK*
 ## 📄 Privacy Policy
 
 You can view the privacy policy here:  
-👉 [Privacy Policy Page](./privacy-policy.html)
+👉 https://privacy-policy-omega-nine.vercel.app
 
 ## 🌐 Deployed Version
 
 The Privacy Policy is also deployed via **Vercel** and can be accessed at:  
-👉 https://ariaK-privacy-policy.vercel.app/privacy-policy.html
+
+👉 https://privacy-policy-omega-nine.vercel.app
 
 ## 📧 Contact
 
